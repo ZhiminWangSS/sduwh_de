@@ -10,7 +10,7 @@ For SDUwh Department of Electronics
 
 
 📖 更早的很多年...
-🔗 [v2017-2024](https://github.com/ZhiminWangSS/sduwh_de/tree/2025)
+🔗 [v2017-2024](https://github.com/ZhiminWangSS/sduwh_de/tree/before2025)
 #### 📬 Contact Us
 **2026届管理员**
    - 王梦娣 👩‍💼
