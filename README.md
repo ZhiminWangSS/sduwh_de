@@ -8,6 +8,9 @@ For SDUwh Department of Electronics
 📖 往年版本
 🔗 [v2025](https://github.com/ZhiminWangSS/sduwh_de/tree/2025)
 
+
+📖 更早的很多年...
+🔗 [v2017-2024](https://github.com/ZhiminWangSS/sduwh_de/tree/2025)
 #### 📬 Contact Us
 **2026届管理员**
    - 王梦娣 👩‍💼
@@ -17,12 +20,15 @@ For SDUwh Department of Electronics
    - 李志坚👨‍🎓(已毕业退休)
 
 #### 🤝欢迎加入我们！
-你可以选择直接申请加入 QQ 群(注意表明身份），参与每年的更新 ❤️
-我们非常欢迎你：
-👑 成为管理员：接力本仓库的版本维护和内容审核；
-🧑‍💻 成为贡献者：参与本仓库的代码贡献和文档编写！
+你可以选择直接申请加入 QQ 群（注意表明身份），参与每年的更新 ❤️
 
+我们非常欢迎你：
+
+👑成为管理员：接力本仓库的版本维护和内容审核；
+
+🧑‍💻 成为贡献者：参与本仓库的代码贡献和文档编写！
+QQ群：932586415
 
 #### 教程
-**1. 使用指南** 🔗
-**2. 如何快速贡献自己的学习经验** 🔗
+**1. 🔗[使用指南](./guidance/how_to_use.md)** 
+**2. 🔗[如何快速贡献自己的学习经验](./guidance/how_to_contribute.md)**
