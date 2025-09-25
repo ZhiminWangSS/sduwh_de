@@ -1,6 +1,6 @@
-#### 📚 SDUwh_DE
+### 📚 SDUwh_DE
 For SDUwh Department of Electronics
-此项目为山威电子系提供学习经验支持 💡
+此项目为山威电子系提供学习经验支持💡
 
 🚀 当前版本：v2026 (持续更新中)
 🔗 [v2026](https://github.com/ZhiminWangSS/sduwh_de/tree/2026)
