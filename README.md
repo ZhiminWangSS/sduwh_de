@@ -1,32 +1,28 @@
-# sduwh_de
-for sduwh department of electronics
-此项目为山威电子系提供学习经验支持
+#### 📚 SDUwh_DE
+For SDUwh Department of Electronics
+此项目为山威电子系提供学习经验支持 💡
 
-维护成员：
+🚀 当前版本：v2026 (持续更新中)
+🔗 [v2026](https://github.com/ZhiminWangSS/sduwh_de/tree/2026)
 
-2021级 
-通信工程 王智民 
-电子科学与技术 李志坚
+📖 往年版本
+🔗 [v2025](https://github.com/ZhiminWangSS/sduwh_de/tree/2025)
 
-编写成员：
+#### 📬 Contact Us
+**2026届管理员**
+   - 王梦娣 👩‍💼
+  
+**2025届管理员**
+   - 王智民👨‍🎓(已毕业退休) 🌐[个人主页](zhiminwangss.github.io)
+   - 李志坚👨‍🎓(已毕业退休)
 
-2021级
+#### 🤝欢迎加入我们！
+你可以选择直接申请加入 QQ 群(注意表明身份），参与每年的更新 ❤️
+我们非常欢迎你：
+👑 成为管理员：接力本仓库的版本维护和内容审核；
+🧑‍💻 成为贡献者：参与本仓库的代码贡献和文档编写！
 
-通信工程 王智民 杨晨 李家政 陈萍
 
-电子科学与技术 李志坚
-
-电子系实验代码gitee开源地址：
-
-1. 嵌入式系统实验：[SDUWH_Embeded_System_Share_Demo: SDUWH嵌入式系统实验参考代码](https://gitee.com/warrior_Li/sduwh_-embeded_-system_-share_-demo)
-
-2. C++面向对象编程实验：
-(1). [TypingGame打字小游戏(WindowAPI)](https://gitee.com/warrior_Li/typing-game_-v1.0)
-(2). [基于Window SDK的画图板(链表 + SDK) ](https://gitee.com/warrior_Li/easy_-drawing_-board_-sdk)
-(3). [基于MFC类库的画图板(MFC类库)](https://gitee.com/warrior_Li/easy_-drawing_-board_-mfc)   
-
-3. 大四上电子专业实训示例：[超声波流量表无线抄表系统]([Wireless Ultrasonic Flowmeter Monitoring System: 2024年山东大学（威海）专业实训作品：超声波流量表无线抄表系统](https://gitee.com/sduwh-embedded-training-group/wireless-ultrasonic-flowmeter-monitoring-system))
-
-电子设计竞赛：
-
-   1.小车控制题：2024年H题参考实例[视频](https://www.bilibili.com/video/BV1UJzgY7E3s/?spm_id_from=333.337.search-card.all.click)、[代码](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library)
+#### 教程
+**1. 使用指南** 🔗
+**2. 如何快速贡献自己的学习经验** 🔗
