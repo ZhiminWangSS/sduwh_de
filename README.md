@@ -24,7 +24,7 @@ For SDUwh Department of Electronics
   
 **2025届管理员**
    - 王智民👨‍🎓(已毕业退休) 🌐[个人主页](https://zhiminwangss.github.io)
-   - 李志坚👨‍🎓(已毕业退休)
+   - 李志坚👨‍🎓(已毕业退休) 🌐[个人主页](https://zhijianli2003.github.io/)
 
 #### 🤝欢迎加入我们！
 你可以选择直接申请加入 QQ 群（注意表明身份），参与每年的更新 ❤️
