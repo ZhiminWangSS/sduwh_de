@@ -2,8 +2,15 @@
 For SDUwh Department of Electronics
 此项目为山威电子系提供学习经验支持💡
 
-🚀 当前版本：v2026 (持续更新中)
+### 🚀 当前版本：v2026 (持续更新中)
 🔗 [v2026](https://github.com/ZhiminWangSS/sduwh_de/tree/2026)
+
+#### 🎉News：
+- 2025/10/12 更新[保研经验](https://github.com/ZhiminWangSS/sduwh_de/tree/2026/postgraduate)板块，内含历届学长学姐亲笔经验。
+
+
+
+
 
 📖 往年版本
 🔗 [v2025](https://github.com/ZhiminWangSS/sduwh_de/tree/2025)
