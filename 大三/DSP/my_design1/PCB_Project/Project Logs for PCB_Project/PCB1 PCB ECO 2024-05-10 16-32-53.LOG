@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin C42-2
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=3.3V Pin=P4-2
+Added Member To Class: ClassName=ADC Member=Component +C15 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component C35 C100n-1206

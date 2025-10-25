@@ -1,0 +1,33 @@
+Added Pin To Net: NetName=D0 Pin=11-16
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=11-17
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=11-18
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=11-19
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=11-20
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=11-21
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=11-22
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=11-24
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=11-25
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=11-27
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=11-28
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=11-29
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=11-30
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=11-31
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=11-32
+Added Net: Name=D14
+Added Pin To Net: NetName=D15 Pin=11-33
+Added Net: Name=D15
+Added Room: Name=ADC

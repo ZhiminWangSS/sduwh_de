@@ -1,0 +1,172 @@
+Removed Pin From Net: NetName=XA16 Pin=P?-1
+Removed Pin From Net: NetName=XA3 Pin=U?-3
+Removed Pin From Net: NetName=XA16 Pin=U?-4
+Removed Pin From Net: NetName=XA16 Pin=U?-5
+Removed Pin From Net: NetName=XA16 Pin=U?-7
+Removed Pin From Net: NetName=XA16 Pin=U?-8
+Removed Pin From Net: NetName=XA16 Pin=U?-9
+Removed Pin From Net: NetName=XA16 Pin=U?-10
+Removed Pin From Net: NetName=XA16 Pin=U?-13
+Removed Pin From Net: NetName=XA16 Pin=U?-14
+Removed Pin From Net: NetName=XA16 Pin=U?-15
+Removed Pin From Net: NetName=XA16 Pin=U?-16
+Removed Pin From Net: NetName=XA16 Pin=U?-18
+Removed Pin From Net: NetName=XA16 Pin=U?-19
+Removed Pin From Net: NetName=XA16 Pin=U?-20
+Removed Pin From Net: NetName=XA16 Pin=U?-21
+Removed Pin From Net: NetName=XA16 Pin=U?-22
+Removed Pin From Net: NetName=XA16 Pin=U?-23
+Removed Pin From Net: NetName=XA0 Pin=U?-24
+Removed Pin From Net: NetName=XA16 Pin=U?-25
+Removed Pin From Net: NetName=XA0 Pin=U?-26
+Removed Pin From Net: NetName=XA16 Pin=U?-27
+Removed Pin From Net: NetName=XA0 Pin=U?-29
+Removed Pin From Net: NetName=XA16 Pin=U?-30
+Removed Pin From Net: NetName=XA0 Pin=U?-31
+Removed Pin From Net: NetName=XA16 Pin=U?-32
+Removed Pin From Net: NetName=XA0 Pin=U?-35
+Removed Pin From Net: NetName=XA16 Pin=U?-36
+Removed Pin From Net: NetName=XA0 Pin=U?-37
+Removed Pin From Net: NetName=XA16 Pin=U?-38
+Removed Pin From Net: NetName=XA16 Pin=U?-42
+Removed Pin From Net: NetName=XA0 Pin=U?-43
+Removed Pin From Net: NetName=XA16 Pin=U?-44
+Removed Member From Class: ClassName=核心板原理图 Member=P?
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=U1(TMS320F28335PGFA)
+Added Pin To Net: NetName=XA2 Pin=U3-3
+Added Pin To Net: NetName=XA3 Pin=U3-4
+Added Pin To Net: NetName=XA4 Pin=U3-5
+Added Pin To Net: NetName=XD0 Pin=U3-7
+Added Pin To Net: NetName=XD1 Pin=U3-8
+Added Pin To Net: NetName=XD2 Pin=U3-9
+Added Pin To Net: NetName=XD3 Pin=U3-10
+Added Pin To Net: NetName=VCC Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=XD4 Pin=U3-13
+Added Pin To Net: NetName=XD5 Pin=U3-14
+Added Pin To Net: NetName=XD6 Pin=U3-15
+Added Pin To Net: NetName=XD7 Pin=U3-16
+Added Pin To Net: NetName=WR Pin=U3-17
+Added Pin To Net: NetName=XA5 Pin=U3-18
+Added Pin To Net: NetName=XA6 Pin=U3-19
+Added Pin To Net: NetName=XA7 Pin=U3-20
+Added Pin To Net: NetName=XA8 Pin=U3-21
+Added Pin To Net: NetName=XA9 Pin=U3-22
+Added Pin To Net: NetName=XA10 Pin=U3-23
+Added Pin To Net: NetName=XA11 Pin=U3-24
+Added Pin To Net: NetName=XA12 Pin=U3-25
+Added Pin To Net: NetName=XA13 Pin=U3-26
+Added Pin To Net: NetName=XA14 Pin=U3-27
+Added Pin To Net: NetName=XD8 Pin=U3-29
+Added Pin To Net: NetName=XD9 Pin=U3-30
+Added Pin To Net: NetName=XD10 Pin=U3-31
+Added Pin To Net: NetName=XD11 Pin=U3-32
+Added Pin To Net: NetName=VCC Pin=U3-33
+Added Pin To Net: NetName=GND Pin=U3-34
+Added Pin To Net: NetName=XD12 Pin=U3-35
+Added Pin To Net: NetName=XD13 Pin=U3-36
+Added Pin To Net: NetName=XD14 Pin=U3-37
+Added Pin To Net: NetName=XD15 Pin=U3-38
+Added Pin To Net: NetName=GND Pin=U3-39
+Added Pin To Net: NetName=GND Pin=U3-40
+Added Pin To Net: NetName=RD Pin=U3-41
+Added Pin To Net: NetName=XA15 Pin=U3-42
+Added Pin To Net: NetName=XA16 Pin=U3-43
+Added Pin To Net: NetName=XA17 Pin=U3-44
+Added Pin To Net: NetName=AINA1 Pin=U1-42
+Added Net: Name=AINA1
+Added Pin To Net: NetName=AINA2 Pin=U1-43
+Added Net: Name=AINA2
+Added Pin To Net: NetName=AINA3 Pin=U1-40
+Added Net: Name=AINA3
+Added Pin To Net: NetName=AINA4 Pin=U1-39
+Added Net: Name=AINA4
+Added Pin To Net: NetName=AINA5 Pin=U1-38
+Added Net: Name=AINA5
+Added Pin To Net: NetName=AINA6 Pin=U1-37
+Added Net: Name=AINA6
+Added Pin To Net: NetName=AINA7 Pin=U1-36
+Added Net: Name=AINA7
+Added Pin To Net: NetName=AINA8 Pin=U1-35
+Added Net: Name=AINA8
+Added Pin To Net: NetName=AINB1 Pin=U1-46
+Added Net: Name=AINB1
+Added Pin To Net: NetName=AINB2 Pin=U1-47
+Added Net: Name=AINB2
+Added Pin To Net: NetName=AINB3 Pin=U1-48
+Added Net: Name=AINB3
+Added Pin To Net: NetName=AINB4 Pin=U1-49
+Added Net: Name=AINB4
+Added Pin To Net: NetName=AINB5 Pin=U1-50
+Added Net: Name=AINB5
+Added Pin To Net: NetName=AINB6 Pin=U1-51
+Added Net: Name=AINB6
+Added Pin To Net: NetName=AINB7 Pin=U1-52
+Added Net: Name=AINB7
+Added Pin To Net: NetName=AINB8 Pin=U1-53
+Added Net: Name=AINB8
+Added Pin To Net: NetName=CANRXB Pin=U1-28
+Added Net: Name=CANRXB
+Added Pin To Net: NetName=CANTXB Pin=U1-27
+Added Net: Name=CANTXB
+Added Pin To Net: NetName=ECAP1 Pin=U1-68
+Added Net: Name=ECAP1
+Added Pin To Net: NetName=ECAP2 Pin=U1-69
+Added Net: Name=ECAP2
+Added Pin To Net: NetName=ECAP3 Pin=U1-72
+Added Pin To Net: NetName=ECAP3 Pin=U1-88
+Added Net: Name=ECAP3
+Added Pin To Net: NetName=ECAP4 Pin=U1-73
+Added Net: Name=ECAP4
+Added Pin To Net: NetName=EXINT1 Pin=U1-65
+Added Net: Name=EXINT1
+Added Pin To Net: NetName=EXINT2 Pin=U1-66
+Added Net: Name=EXINT2
+Added Pin To Net: NetName=EXNMI Pin=U1-64
+Added Net: Name=EXNMI
+Added Pin To Net: NetName=HOLDAN Pin=U1-26
+Added Net: Name=HOLDAN
+Added Pin To Net: NetName=HOLDDN Pin=U1-25
+Added Net: Name=HOLDDN
+Added Pin To Net: NetName=PWMA1 Pin=U1-5
+Added Net: Name=PWMA1
+Added Pin To Net: NetName=PWMA2 Pin=U1-7
+Added Net: Name=PWMA2
+Added Pin To Net: NetName=PWMA3 Pin=U1-11
+Added Net: Name=PWMA3
+Added Pin To Net: NetName=PWMA4 Pin=U1-13
+Added Net: Name=PWMA4
+Added Pin To Net: NetName=PWMA5 Pin=U1-17
+Added Net: Name=PWMA5
+Added Pin To Net: NetName=PWMA6 Pin=U1-19
+Added Net: Name=PWMA6
+Added Pin To Net: NetName=PWMB1 Pin=U1-6
+Added Net: Name=PWMB1
+Added Pin To Net: NetName=PWMB2 Pin=U1-10
+Added Net: Name=PWMB2
+Added Pin To Net: NetName=PWMB3 Pin=U1-12
+Added Net: Name=PWMB3
+Added Pin To Net: NetName=PWMB4 Pin=U1-16
+Added Net: Name=PWMB4
+Added Pin To Net: NetName=PWMB5 Pin=U1-18
+Added Net: Name=PWMB5
+Added Pin To Net: NetName=PWMB6 Pin=U1-20
+Added Net: Name=PWMB6
+Added Pin To Net: NetName=RXDB Pin=U1-63
+Added Net: Name=RXDB
+Added Pin To Net: NetName=SCLA Pin=U1-75
+Added Net: Name=SCLA
+Added Pin To Net: NetName=SDAA Pin=U1-74
+Added Net: Name=SDAA
+Added Pin To Net: NetName=SRAMCS Pin=U3-6
+Added Net: Name=SRAMCS
+Added Pin To Net: NetName=SYSRUN Pin=U1-67
+Added Net: Name=SYSRUN
+Added Pin To Net: NetName=TXDB Pin=U1-62
+Added Net: Name=TXDB
+Added Pin To Net: NetName=TZ1N Pin=U1-21
+Added Net: Name=TZ1N
+Added Pin To Net: NetName=TZ2N Pin=U1-24
+Added Net: Name=TZ2N
+Added Member To Class: ClassName=核心板原理图 Member=Component U1 TMS320F28335PGFA

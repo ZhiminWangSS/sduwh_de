@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADRES Pin=P5-1
+Removed Pin From Net: NetName=AD2 REFSEL Pin=P5-2
+Removed Pin From Net: NetName=AD VACC Pin=P5-3
+Add Pin To Net: Unknown Pin: Pin C42-2
+Added Pin To Net: NetName=AD VACC Pin=P5-1
+Added Pin To Net: NetName=AD2 REFSEL Pin=P5-3

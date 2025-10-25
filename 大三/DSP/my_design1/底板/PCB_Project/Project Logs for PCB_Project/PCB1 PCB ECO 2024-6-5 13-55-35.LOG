@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=0 Pin=C90-1
+Removed Pin From Net: NetName=0 Pin=C91-1
+Removed Pin From Net: NetName=0 Pin=C92-1
+Removed Pin From Net: NetName=0 Pin=C93-1
+Removed Pin From Net: NetName=0 Pin=C94-1
+Removed Pin From Net: NetName=0 Pin=C95-1
+Removed Pin From Net: NetName=0 Pin=C96-1
+Removed Pin From Net: NetName=0 Pin=C130-1
+Removed Pin From Net: NetName=0 Pin=C131-1
+Removed Pin From Net: NetName=0 Pin=C132-1
+Removed Pin From Net: NetName=0 Pin=U7-2
+Added Pin To Net: NetName=1V8 Pin=C90-1
+Added Pin To Net: NetName=1V8 Pin=C91-1
+Added Pin To Net: NetName=1V8 Pin=C92-1
+Added Pin To Net: NetName=1V8 Pin=C93-1
+Added Pin To Net: NetName=1V8 Pin=C94-1
+Added Pin To Net: NetName=1V8 Pin=C95-1
+Added Pin To Net: NetName=1V8 Pin=C96-1
+Added Pin To Net: NetName=1V8 Pin=C130-1
+Added Pin To Net: NetName=1V8 Pin=C131-1
+Added Pin To Net: NetName=1V8 Pin=C132-1
+Added Pin To Net: NetName=1V8 Pin=U7-2
+Added Net: Name=1V8
+Added Room: Name=Sheet1

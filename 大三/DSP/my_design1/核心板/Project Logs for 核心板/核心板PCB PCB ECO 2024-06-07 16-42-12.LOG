@@ -1,0 +1,47 @@
+Added Component: Designator=+5V?(1N60P)
+Added Component: Designator=R4(0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYSRUN Pin=+5V?-K
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=ECAP5 Pin=U114514-88
+Added Net: Name=ECAP5
+Added Pin To Net: NetName=ECAP6 Pin=U114514-89
+Added Net: Name=ECAP6
+Added Pin To Net: NetName=EQEP1A Pin=U114514-90
+Added Net: Name=EQEP1A
+Added Pin To Net: NetName=EQEP1B Pin=U114514-91
+Added Net: Name=EQEP1B
+Added Pin To Net: NetName=EQEP1I Pin=U114514-95
+Added Net: Name=EQEP1I
+Added Pin To Net: NetName=EQEP1S Pin=U114514-94
+Added Net: Name=EQEP1S
+Added Pin To Net: NetName=MCLKRA Pin=U114514-100
+Added Net: Name=MCLKRA
+Added Pin To Net: NetName=MCLKRB Pin=U114514-111
+Added Net: Name=MCLKRB
+Added Pin To Net: NetName=MFSRA Pin=U114514-110
+Added Net: Name=MFSRA
+Added Pin To Net: NetName=MFSRB Pin=U114514-112
+Added Net: Name=MFSRB
+Added Pin To Net: NetName=Net+5V?_A Pin=+5V?-A
+Added Pin To Net: NetName=Net+5V?_A Pin=R4-2
+Added Net: Name=Net+5V?_A
+Added Pin To Net: NetName=RXDC Pin=U114514-113
+Added Net: Name=RXDC
+Added Pin To Net: NetName=SPICLKA Pin=U114514-98
+Added Net: Name=SPICLKA
+Added Pin To Net: NetName=SPISETA Pin=U114514-99
+Added Net: Name=SPISETA
+Added Pin To Net: NetName=SPISIMOA Pin=U114514-96
+Added Net: Name=SPISIMOA
+Added Pin To Net: NetName=SPISOMIA Pin=U114514-97
+Added Net: Name=SPISOMIA
+Added Pin To Net: NetName=TXDC Pin=U114514-114
+Added Net: Name=TXDC
+Added Member To Class: ClassName=核心板原理图 Member=Component +5V? LED
+Added Member To Class: ClassName=核心板原理图 Member=Component R4 Res1

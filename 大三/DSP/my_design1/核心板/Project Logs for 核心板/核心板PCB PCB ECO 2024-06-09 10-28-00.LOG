@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=PWM? NewDesignator=PWM
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP?_3 New Net Name=NetJP2_3
+Change Net Name : Old Net Name=NetJP?_4 New Net Name=NetJP2_4
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP2_5
+Change Net Name : Old Net Name=NetJP?_6 New Net Name=NetJP2_6
+Change Net Name : Old Net Name=NetJP?_7 New Net Name=NetJP2_7
+Change Net Name : Old Net Name=NetJP?_8 New Net Name=NetJP2_8
+Change Net Name : Old Net Name=NetPWM?_A New Net Name=NetPWM_A
+Added Member To Class: ClassName=核心板原理图 Member=Component C3 2.2uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C4 2.2uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C10 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C22 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C23 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component J1 SECELCT
+Added Member To Class: ClassName=核心板原理图 Member=Component J2 SECELCT
+Added Member To Class: ClassName=核心板原理图 Member=Component J3 SECELCT
+Added Member To Class: ClassName=核心板原理图 Member=Component OSC2 CR32K-DT38-12-DIP
+Added Member To Class: ClassName=核心板原理图 Member=Component R9X Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component R12 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component R13 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component R14 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component R15 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component R28 10K
+Added Member To Class: ClassName=核心板原理图 Member=Component R29 10K
+Added Member To Class: ClassName=核心板原理图 Member=Component Rsx1 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component Rsx2 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component Rsx3 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component Rsx4 Res1
+Added Member To Class: ClassName=核心板原理图 Member=Component U6 74HC04DB
+Add Class Member: Failed to add class member : Component U8 REF3020

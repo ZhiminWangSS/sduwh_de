@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=5V-LCD Pin=C49-1
+Removed Pin From Net: NetName=5V-LCD Pin=C50-1
+Removed Pin From Net: NetName=5V-LCD Pin=C51-1
+Removed Pin From Net: NetName=5V-LCD Pin=C52-1
+Removed Pin From Net: NetName=DSP_IO/MCLKRB Pin=CAP3-105
+Removed Pin From Net: NetName=5V-LCD Pin=L3-2
+Removed Pin From Net: NetName=SCITXDC-485 Pin=P2-1
+Removed Pin From Net: NetName=SCITXDC Pin=P2-2
+Removed Pin From Net: NetName=SCITXDC-232 Pin=P2-3
+Removed Pin From Net: NetName=SCITXDC-485 Pin=P7-2
+Removed Pin From Net: NetName=DSP_IO/MCLKRB Pin=P22-2
+Removed Pin From Net: NetName=SCITXDC-232 Pin=U9-9
+Removed Pin From Net: NetName=SCITXDB Pin=U9-12
+Removed Pin From Net: NetName=PWM10 Pin=U28-32
+Added Pin To Net: NetName=5V Pin=C49-1
+Added Pin To Net: NetName=5V Pin=C50-1
+Added Pin To Net: NetName=5V Pin=C51-1
+Added Pin To Net: NetName=5V Pin=C52-1
+Added Pin To Net: NetName=DSP_IO/MCLKRA Pin=CAP3-105
+Added Pin To Net: NetName=SCITXDC Pin=CAP3-112
+Added Pin To Net: NetName=5V Pin=L3-2
+Added Pin To Net: NetName=SCIRXDC Pin=P2-2
+Added Pin To Net: NetName=XDSPSOMI Pin=P5-2
+Added Pin To Net: NetName=DSP_IO/MFSRB Pin=P22-2
+Added Pin To Net: NetName=ADRES Pin=U1-11
+Added Pin To Net: NetName=ADRES Pin=U2-11
+Added Pin To Net: NetName=SCIRXDB Pin=U9-12
+Added Pin To Net: NetName=PWM1 Pin=U28-32
+Added Pin To Net: NetName=AD_CON Pin=U28-79
+Change Net Name : Old Net Name=AD_CON New Net Name=AD-CON
+Change Net Name : Old Net Name=SCITXDC-485-T-ISO New Net Name=SCI-485-T-ISO
+Added Pin To Net: NetName=SCIRXDC-232 Pin=P2-3
+Added Pin To Net: NetName=SCIRXDC-232 Pin=U9-9
+Added Net: Name=SCIRXDC-232
+Added Pin To Net: NetName=SCIRXDC-485 Pin=P2-1
+Added Pin To Net: NetName=SCIRXDC-485 Pin=P7-2
+Added Net: Name=SCIRXDC-485
+Added Room: Name=Sheet1

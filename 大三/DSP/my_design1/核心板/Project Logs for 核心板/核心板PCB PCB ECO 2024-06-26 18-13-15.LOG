@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=X1 Pin=OSC1-1
+Added Pin To Net: NetName=7 Pin=JP1-44
+Added Pin To Net: NetName=VDD Pin=LH1-1
+Added Pin To Net: NetName=X2 Pin=OSC1-1
+Added Pin To Net: NetName=7 Pin=R20-1
+Added Pin To Net: NetName=7 Pin=R21-1
+Added Pin To Net: NetName=7 Pin=R22-1
+Added Pin To Net: NetName=7 Pin=R24-1
+Added Pin To Net: NetName=RST/ Pin=R26-1
+Added Pin To Net: NetName=7 Pin=U1-137
+Added Pin To Net: NetName=RST/ Pin=U1-138
+Added Pin To Net: NetName=7 Pin=U1-141
+Added Pin To Net: NetName=7 Pin=U1-142
+Added Pin To Net: NetName=7 Pin=U1-145
+Added Pin To Net: NetName=7 Pin=U1-148
+Added Pin To Net: NetName=7 Pin=U1-149
+Added Pin To Net: NetName=7 Pin=U1-150
+Add Pin To Net: Unknown Pin: Pin U8-3
+Change Net Name : Old Net Name=7 New Net Name=DSPREADY
+Change Net Name : Old Net Name=14 New Net Name=VCC

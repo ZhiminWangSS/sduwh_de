@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=VDD Pin=LH1-1
+Add Pin To Net: Unknown Pin: Pin U8-3
+Change Net Name : Old Net Name=7 New Net Name=DSPREADY
+Change Net Name : Old Net Name=14 New Net Name=VCC
+Change Net Color : Old Net Color=RGB(24, 62, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(24, 62, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(24, 62, 0) New Net Color=Default
+Added Member To Class: ClassName=核心板原理图 Member=Component U5 74HC32DB
+Added Room: Name=核心板原理图

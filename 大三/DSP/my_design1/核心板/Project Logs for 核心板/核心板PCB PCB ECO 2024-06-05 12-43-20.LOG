@@ -1,0 +1,9 @@
+Added Component: Designator=P?(HDR1X14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XA16 Pin=P?-1
+Added Member To Class: ClassName=核心板原理图 Member=Component C27 C100n-1206
+Added Member To Class: ClassName=核心板原理图 Member=Component P? Header 14
+Added Member To Class: ClassName=核心板原理图 Member=Component U2 SST39VF800A 70 4I EKE
+Added Member To Class: ClassName=核心板原理图 Member=Component U? IS61LV25616AL-10TL
