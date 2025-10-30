@@ -1,0 +1,180 @@
+Removed Pin From Net: NetName=7 Pin=C?-1
+Removed Pin From Net: NetName=14 Pin=C?-2
+Removed Pin From Net: NetName=XA0 Pin=U?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA1 Pin=U?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA2 Pin=U?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA3 Pin=U?-4
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA4 Pin=U?-5
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=SRAMCS Pin=U?-6
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD0 Pin=U?-7
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD1 Pin=U?-8
+Removed Pin From Net: NetName=XD2 Pin=U?-9
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD3 Pin=U?-10
+Removed Pin From Net: NetName=14 Pin=U?-11
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=7 Pin=U?-12
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD4 Pin=U?-13
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD5 Pin=U?-14
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD6 Pin=U?-15
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD7 Pin=U?-16
+Removed Pin From Net: NetName=WR Pin=U?-17
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA5 Pin=U?-18
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA6 Pin=U?-19
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA7 Pin=U?-20
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA8 Pin=U?-21
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA9 Pin=U?-22
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA10 Pin=U?-23
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA11 Pin=U?-24
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA12 Pin=U?-25
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA13 Pin=U?-26
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA14 Pin=U?-27
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD8 Pin=U?-29
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD9 Pin=U?-30
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD10 Pin=U?-31
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD11 Pin=U?-32
+Removed Pin From Net: NetName=14 Pin=U?-33
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=7 Pin=U?-34
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD12 Pin=U?-35
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD13 Pin=U?-36
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD14 Pin=U?-37
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XD15 Pin=U?-38
+Removed Pin From Net: NetName=7 Pin=U?-39
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=7 Pin=U?-40
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=RD Pin=U?-41
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA15 Pin=U?-42
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA16 Pin=U?-43
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=XA17 Pin=U?-44
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Unknown Pin: Pin U?-45
+Remove Pin from Net: Unknown Pin: Pin U?-46
+Remove Pin from Net: Unknown Pin: Pin U?-47
+Remove Pin from Net: Unknown Pin: Pin U?-48
+Removed Member From Class: ClassName=核心板原理图 Member=C?
+Removed Member From Class: ClassName=核心板原理图 Member=U?
+Added Component: Designator=C24(0805)
+Added Component: Designator=C25(0805)
+Added Component: Designator=C27(0805)
+Added Component: Designator=U2(TSOP48)
+Added Component: Designator=U3(TSOP II Z44)
+Added Pin To Net: NetName=14 Pin=C24-1
+Added Pin To Net: NetName=7 Pin=C24-2
+Added Pin To Net: NetName=14 Pin=C25-1
+Added Pin To Net: NetName=7 Pin=C25-2
+Added Pin To Net: NetName=14 Pin=C27-1
+Added Pin To Net: NetName=7 Pin=C27-2
+Added Pin To Net: NetName=XA15 Pin=U2-1
+Added Pin To Net: NetName=XA14 Pin=U2-2
+Added Pin To Net: NetName=XA13 Pin=U2-3
+Added Pin To Net: NetName=XA12 Pin=U2-4
+Added Pin To Net: NetName=XA11 Pin=U2-5
+Added Pin To Net: NetName=XA10 Pin=U2-6
+Added Pin To Net: NetName=XA9 Pin=U2-7
+Added Pin To Net: NetName=XA8 Pin=U2-8
+Added Pin To Net: NetName=WR Pin=U2-11
+Added Pin To Net: NetName=XA18 Pin=U2-16
+Added Pin To Net: NetName=XA17 Pin=U2-17
+Added Pin To Net: NetName=XA7 Pin=U2-18
+Added Pin To Net: NetName=XA6 Pin=U2-19
+Added Pin To Net: NetName=XA5 Pin=U2-20
+Added Pin To Net: NetName=XA4 Pin=U2-21
+Added Pin To Net: NetName=XA3 Pin=U2-22
+Added Pin To Net: NetName=XA2 Pin=U2-23
+Added Pin To Net: NetName=XA1 Pin=U2-24
+Added Pin To Net: NetName=7 Pin=U2-27
+Added Pin To Net: NetName=XD0 Pin=U2-29
+Added Pin To Net: NetName=XD8 Pin=U2-30
+Added Pin To Net: NetName=XD1 Pin=U2-31
+Added Pin To Net: NetName=XD9 Pin=U2-32
+Added Pin To Net: NetName=XD2 Pin=U2-33
+Added Pin To Net: NetName=XD10 Pin=U2-34
+Added Pin To Net: NetName=XD3 Pin=U2-35
+Added Pin To Net: NetName=XD11 Pin=U2-36
+Added Pin To Net: NetName=14 Pin=U2-37
+Added Pin To Net: NetName=XD12 Pin=U2-39
+Added Pin To Net: NetName=XD5 Pin=U2-40
+Added Pin To Net: NetName=XD13 Pin=U2-41
+Added Pin To Net: NetName=XD6 Pin=U2-42
+Added Pin To Net: NetName=XD14 Pin=U2-43
+Added Pin To Net: NetName=XD7 Pin=U2-44
+Added Pin To Net: NetName=XD15 Pin=U2-45
+Added Pin To Net: NetName=7 Pin=U2-46
+Added Pin To Net: NetName=XA0 Pin=U3-1
+Added Pin To Net: NetName=XA1 Pin=U3-2
+Added Pin To Net: NetName=XA2 Pin=U3-3
+Added Pin To Net: NetName=XA3 Pin=U3-4
+Added Pin To Net: NetName=XA4 Pin=U3-5
+Added Pin To Net: NetName=XD0 Pin=U3-7
+Added Pin To Net: NetName=XD1 Pin=U3-8
+Added Pin To Net: NetName=XD2 Pin=U3-9
+Added Pin To Net: NetName=XD3 Pin=U3-10
+Added Pin To Net: NetName=14 Pin=U3-11
+Added Pin To Net: NetName=7 Pin=U3-12
+Added Pin To Net: NetName=XD6 Pin=U3-15
+Added Pin To Net: NetName=XA5 Pin=U3-18
+Added Pin To Net: NetName=XA6 Pin=U3-19
+Added Pin To Net: NetName=XA7 Pin=U3-20
+Added Pin To Net: NetName=XA8 Pin=U3-21
+Added Pin To Net: NetName=XA9 Pin=U3-22
+Added Pin To Net: NetName=XD8 Pin=U3-29
+Added Pin To Net: NetName=XD9 Pin=U3-30
+Added Pin To Net: NetName=XD10 Pin=U3-31
+Added Pin To Net: NetName=XD11 Pin=U3-32
+Added Pin To Net: NetName=14 Pin=U3-33
+Added Pin To Net: NetName=XD12 Pin=U3-35
+Added Pin To Net: NetName=XD13 Pin=U3-36
+Added Pin To Net: NetName=XD14 Pin=U3-37
+Added Pin To Net: NetName=XD15 Pin=U3-38
+Added Pin To Net: NetName=7 Pin=U3-39
+Added Pin To Net: NetName=7 Pin=U3-40
+Added Pin To Net: NetName=XA16 Pin=U3-43
+Added Pin To Net: NetName=XA17 Pin=U3-44
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Added Member To Class: ClassName=核心板原理图 Member=Component C24 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C25 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component C27 0.1uF
+Added Member To Class: ClassName=核心板原理图 Member=Component U2 SST39VF800A
+Added Member To Class: ClassName=核心板原理图 Member=Component U3 IS61LV25616-10/12/15TI
+Add Class Member: Failed to add class member : Component U8 REF3020

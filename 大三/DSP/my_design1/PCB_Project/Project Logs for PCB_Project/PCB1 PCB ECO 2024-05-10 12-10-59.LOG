@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=0V Pin=+C8-2
+Removed Pin From Net: NetName=0V Pin=+C9-1
+Removed Pin From Net: NetName=0V Pin=+C9-2
+Removed Pin From Net: NetName=3.3V Pin=+C15-1
+Removed Pin From Net: NetName=3.3V Pin=+C25-1
+Removed Pin From Net: NetName=3.3V Pin=+C26-1
+Removed Pin From Net: NetName=3.3V Pin=11-1
+Removed Pin From Net: NetName=3.3V Pin=11-36
+Removed Pin From Net: NetName=3.3V Pin=11-37
+Removed Pin From Net: NetName=3.3V Pin=11-38
+Removed Pin From Net: NetName=0V Pin=11-43
+Removed Pin From Net: NetName=0V Pin=11-44
+Removed Pin From Net: NetName=0V Pin=11-45
+Removed Pin From Net: NetName=0V Pin=11-46
+Removed Pin From Net: NetName=3.3V Pin=11-48
+Removed Pin From Net: NetName=0V Pin=C7-1
+Removed Pin From Net: NetName=0V Pin=C10-1
+Removed Pin From Net: NetName=0V Pin=C10-2
+Removed Pin From Net: NetName=3.3V Pin=C17-2
+Removed Pin From Net: NetName=3.3V Pin=C27-2
+Removed Pin From Net: NetName=3.3V Pin=C28-2
+Removed Pin From Net: NetName=3.3V Pin=C34-2
+Removed Pin From Net: NetName=3.3V Pin=C35-2
+Removed Pin From Net: NetName=3.3V Pin=C38-1
+Removed Pin From Net: NetName=3.3V Pin=C39-1
+Removed Pin From Net: NetName=3.3V Pin=C40-1
+Removed Pin From Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=+C8-2
+Added Pin To Net: NetName=3.3V Pin=+C9-1
+Added Pin To Net: NetName=3.3V Pin=+C9-2
+Added Pin To Net: NetName=3.3V Pin=11-43
+Added Pin To Net: NetName=3.3V Pin=11-44
+Added Pin To Net: NetName=3.3V Pin=11-45
+Added Pin To Net: NetName=3.3V Pin=11-46
+Added Pin To Net: NetName=3.3V Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Add Pin To Net: Unknown Pin: Pin C42-2
+Change Net Name : Old Net Name=3.3V New Net Name=AD2 REFCAP
+Added Pin To Net: NetName=AD VACC Pin=11-1
+Added Pin To Net: NetName=AD VACC Pin=11-37
+Added Pin To Net: NetName=AD VACC Pin=11-38
+Added Pin To Net: NetName=AD VACC Pin=11-48
+Added Pin To Net: NetName=AD VACC Pin=+C25-1
+Added Pin To Net: NetName=AD VACC Pin=+C26-1
+Added Pin To Net: NetName=AD VACC Pin=C27-2
+Added Pin To Net: NetName=AD VACC Pin=C28-2
+Added Pin To Net: NetName=AD VACC Pin=C34-2
+Added Pin To Net: NetName=AD VACC Pin=C35-2
+Added Pin To Net: NetName=AD VACC Pin=C38-1
+Added Pin To Net: NetName=AD VACC Pin=C39-1
+Added Pin To Net: NetName=AD VACC Pin=C40-1
+Added Pin To Net: NetName=AD VACC Pin=L1-1
+Added Net: Name=AD VACC
+Added Pin To Net: NetName=Net11_36 Pin=11-36
+Added Pin To Net: NetName=Net11_36 Pin=+C15-1
+Added Pin To Net: NetName=Net11_36 Pin=C17-2
+Added Net: Name=Net11_36

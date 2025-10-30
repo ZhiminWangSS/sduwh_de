@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AD2 BUSY Pin=11-9
+Removed Pin From Net: NetName=AD2 BUSY Pin=11-10
+Removed Pin From Net: NetName=AD2 BUSY Pin=11-13
+Removed Pin From Net: NetName=AD2 BUSY Pin=P6-26
+Removed Pin From Net: NetName=AD2 BUSY Pin=P6-28
+Add Pin To Net: Unknown Pin: Pin C42-2
+Added Pin To Net: NetName=AD-CON Pin=P6-26
+Added Net: Name=AD-CON
+Added Pin To Net: NetName=ADRES Pin=11-11
+Added Net: Name=ADRES
+Added Pin To Net: NetName=Net11_9 Pin=11-9
+Added Pin To Net: NetName=Net11_9 Pin=11-10
+Added Net: Name=Net11_9
+Added Pin To Net: NetName=XADS2 Pin=11-13
+Added Pin To Net: NetName=XADS2 Pin=P6-28
+Added Net: Name=XADS2

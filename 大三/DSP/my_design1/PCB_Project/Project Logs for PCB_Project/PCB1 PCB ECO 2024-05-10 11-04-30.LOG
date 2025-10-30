@@ -1,0 +1,153 @@
+Added Pin To Net: NetName=ADR421 VOUT Pin=+C8-1
+Added Pin To Net: NetName=0V Pin=+C8-2
+Added Pin To Net: NetName=AD2 REFCAP Pin=+C9-1
+Added Pin To Net: NetName=0V Pin=+C9-2
+Added Pin To Net: NetName=Net11_36 Pin=+C15-1
+Added Pin To Net: NetName=AGND Pin=+C15-2
+Added Pin To Net: NetName=Net11_39 Pin=+C16-1
+Added Pin To Net: NetName=AGND Pin=+C16-2
+Added Pin To Net: NetName=AD VACC Pin=+C25-1
+Added Pin To Net: NetName=Net+C25_2 Pin=+C25-2
+Added Pin To Net: NetName=AD VACC Pin=+C26-1
+Added Pin To Net: NetName=Net+C25_2 Pin=+C26-2
+Added Pin To Net: NetName=AD VACC Pin=11-1
+Added Pin To Net: NetName=AGND Pin=11-2
+Added Pin To Net: NetName=AD2 OS0 Pin=11-3
+Added Pin To Net: NetName=AD2 OS1 Pin=11-4
+Added Pin To Net: NetName=AD2 OS2 Pin=11-5
+Added Pin To Net: NetName=AD2 SERPAR SEL Pin=11-6
+Added Pin To Net: NetName=AD2 STBY Pin=11-7
+Added Pin To Net: NetName=AD2 RANGE Pin=11-8
+Added Pin To Net: NetName=AD-CON Pin=11-9
+Added Pin To Net: NetName=AD-CON Pin=11-10
+Added Pin To Net: NetName=XAD* Pin=11-12
+Added Pin To Net: NetName=XADS2 Pin=11-13
+Added Pin To Net: NetName=AD2 BUSY Pin=11-14
+Added Pin To Net: NetName=3.3V Pin=11-23
+Added Pin To Net: NetName=AGND Pin=11-26
+Added Pin To Net: NetName=AD2 REFSEL Pin=11-34
+Added Pin To Net: NetName=AGND Pin=11-35
+Added Pin To Net: NetName=Net11_36 Pin=11-36
+Added Pin To Net: NetName=AD VACC Pin=11-37
+Added Pin To Net: NetName=AD VACC Pin=11-38
+Added Pin To Net: NetName=Net11_39 Pin=11-39
+Added Pin To Net: NetName=AGND Pin=11-40
+Added Pin To Net: NetName=AGND Pin=11-41
+Added Pin To Net: NetName=ADR421 VOUT Pin=11-42
+Added Pin To Net: NetName=0V Pin=11-43
+Added Pin To Net: NetName=AD2 REFCAP Pin=11-44
+Added Pin To Net: NetName=AD2 REFCAP Pin=11-45
+Added Pin To Net: NetName=0V Pin=11-46
+Added Pin To Net: NetName=AGND Pin=11-47
+Added Pin To Net: NetName=AD VACC Pin=11-48
+Added Pin To Net: NetName=ADINB0 Pin=11-49
+Added Pin To Net: NetName=0V Pin=11-50
+Added Pin To Net: NetName=ADINB1 Pin=11-51
+Added Pin To Net: NetName=0V Pin=11-52
+Added Pin To Net: NetName=ADINB2 Pin=11-53
+Added Pin To Net: NetName=0V Pin=11-54
+Added Pin To Net: NetName=ADINB3 Pin=11-55
+Added Pin To Net: NetName=0V Pin=11-56
+Added Pin To Net: NetName=ADINB4 Pin=11-57
+Added Pin To Net: NetName=0V Pin=11-58
+Added Pin To Net: NetName=ADINB5 Pin=11-59
+Added Pin To Net: NetName=0V Pin=11-60
+Added Pin To Net: NetName=ADINB6 Pin=11-61
+Added Pin To Net: NetName=0V Pin=11-62
+Added Pin To Net: NetName=ADINB7 Pin=11-63
+Added Pin To Net: NetName=0V Pin=11-64
+Added Pin To Net: NetName=0V Pin=C7-1
+Added Pin To Net: NetName=ADR421 VOUT Pin=C7-2
+Added Pin To Net: NetName=0V Pin=C10-1
+Added Pin To Net: NetName=AD2 REFCAP Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C17-1
+Added Pin To Net: NetName=Net11_36 Pin=C17-2
+Added Pin To Net: NetName=AGND Pin=C18-1
+Added Pin To Net: NetName=Net11_39 Pin=C18-2
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=Net+C25_2 Pin=C27-1
+Added Pin To Net: NetName=AD VACC Pin=C27-2
+Added Pin To Net: NetName=Net+C25_2 Pin=C28-1
+Added Pin To Net: NetName=AD VACC Pin=C28-2
+Added Pin To Net: NetName=Net+C25_2 Pin=C34-1
+Added Pin To Net: NetName=AD VACC Pin=C34-2
+Added Pin To Net: NetName=Net+C25_2 Pin=C35-1
+Added Pin To Net: NetName=AD VACC Pin=C35-2
+Added Pin To Net: NetName=AD VACC Pin=C38-1
+Added Pin To Net: NetName=Net+C25_2 Pin=C38-2
+Added Pin To Net: NetName=AD VACC Pin=C39-1
+Added Pin To Net: NetName=AGND Pin=C39-2
+Added Pin To Net: NetName=AD VACC Pin=C40-1
+Added Pin To Net: NetName=AGND Pin=C40-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C42-1
+Added Pin To Net: NetName=NetC41_1 Pin=C42-2
+Added Pin To Net: NetName=AD VACC Pin=L1-1
+Added Pin To Net: NetName=NetC41_1 Pin=L1-2
+Added Pin To Net: NetName=AGND Pin=P3-1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=3.3V Pin=P3-3
+Added Pin To Net: NetName=AGND Pin=P4-3
+Added Pin To Net: NetName=ADINB0 Pin=P6-17
+Added Pin To Net: NetName=ADINB1 Pin=P6-18
+Added Pin To Net: NetName=ADINB2 Pin=P6-19
+Added Pin To Net: NetName=ADINB3 Pin=P6-20
+Added Pin To Net: NetName=ADINB4 Pin=P6-21
+Added Pin To Net: NetName=ADINB5 Pin=P6-22
+Added Pin To Net: NetName=ADINB6 Pin=P6-23
+Added Pin To Net: NetName=ADINB7 Pin=P6-24
+Added Pin To Net: NetName=AD2 SERPAR SEL Pin=P6-25
+Added Pin To Net: NetName=AD-CON Pin=P6-26
+Added Pin To Net: NetName=AD2 BUSY Pin=P6-27
+Added Pin To Net: NetName=XADS2 Pin=P6-28
+Added Pin To Net: NetName=XAD* Pin=P6-29
+Added Pin To Net: NetName=AD2 STBY Pin=P6-30
+Added Pin To Net: NetName=AD2 RANGE Pin=R9-1
+Added Pin To Net: NetName=NetP3_2 Pin=R9-2
+Added Pin To Net: NetName=AGND Pin=R10-1
+Added Pin To Net: NetName=AD2 SERPAR SEL Pin=R10-2
+Added Pin To Net: NetName=AD2 REFSEL Pin=R13-1
+Added Pin To Net: NetName=AGND Pin=R13-2
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Added Pin To Net: NetName=AD2 STBY Pin=R15-2
+Added Pin To Net: NetName=AD2 OS2 Pin=R17-1
+Added Pin To Net: NetName=AGND Pin=R17-2
+Added Pin To Net: NetName=AD2 OS1 Pin=R19-1
+Added Pin To Net: NetName=AGND Pin=R19-2
+Added Pin To Net: NetName=AD2 OS0 Pin=R21-1
+Added Pin To Net: NetName=AGND Pin=R21-2
+Added Member To Class: ClassName=ADC Member=Component +C8 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component +C9 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component +C15 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component +C16 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component +C25 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component +C26 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component 11 Component_1
+Added Member To Class: ClassName=ADC Member=Component C7 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C10 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C17 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C18 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C23 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C27 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C28 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C34 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C35 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C38 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component C39 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component C40 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component C41 CD10u/25V-B(3528)
+Added Member To Class: ClassName=ADC Member=Component C42 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component L1 L180R-0603
+Added Member To Class: ClassName=ADC Member=Component P3 Header 3
+Added Member To Class: ClassName=ADC Member=Component P4 Header 3
+Added Member To Class: ClassName=ADC Member=Component P5 Header 3
+Added Member To Class: ClassName=ADC Member=Component P6 Header 30
+Added Member To Class: ClassName=ADC Member=Component R9 R300R-0805
+Added Member To Class: ClassName=ADC Member=Component R10 R300R-0805
+Added Member To Class: ClassName=ADC Member=Component R13 R300R-0805
+Added Member To Class: ClassName=ADC Member=Component R15 R300R-0805
+Added Member To Class: ClassName=ADC Member=Component R17 R36K-0805
+Added Member To Class: ClassName=ADC Member=Component R19 R36K-0805
+Added Member To Class: ClassName=ADC Member=Component R21 R36K-0805

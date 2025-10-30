@@ -1,0 +1,11 @@
+Added Component: Designator=U?(IS61LV25616AL-10TL)
+Added Component: Designator=U?(SST39VF800A 70 4I EKE)
+Added Component: Designator=U?(IS61LV25616AL-10TL)
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_2 Pin=U?-44
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-43
+Added Net: Name=NetU?_3
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

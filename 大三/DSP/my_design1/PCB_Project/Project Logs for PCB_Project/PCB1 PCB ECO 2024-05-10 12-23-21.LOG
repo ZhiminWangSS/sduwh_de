@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AD2 REFCAP Pin=11-23
+Removed Pin From Net: NetName=AD2 REFCAP Pin=C23-2
+Removed Pin From Net: NetName=AD2 REFCAP Pin=P3-3
+Removed Pin From Net: NetName=AD2 REFCAP Pin=R15-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Added Pin To Net: NetName=3.3V Pin=11-23
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=3.3V Pin=P3-3
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Added Net: Name=3.3V
+Added Member To Class: ClassName=ADC Member=Component +C15 CD10u/25V-B(3528)

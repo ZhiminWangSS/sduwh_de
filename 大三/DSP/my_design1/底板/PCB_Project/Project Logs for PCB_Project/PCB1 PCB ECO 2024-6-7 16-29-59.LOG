@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=XREADY Pin=CAP3-44
+Removed Pin From Net: NetName=XHOLDA Pin=CAP3-46
+Removed Pin From Net: NetName=EXINT1 Pin=CAP3-48
+Removed Pin From Net: NetName=CANTXB Pin=CAP3-50
+Removed Pin From Net: NetName=CANRXB Pin=CAP3-52
+Added Room: Name=Sheet1

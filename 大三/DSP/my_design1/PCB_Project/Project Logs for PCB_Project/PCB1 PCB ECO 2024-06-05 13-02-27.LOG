@@ -1,0 +1,213 @@
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Added Component: Designator=U1(LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL)
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add Pin To Net: Unknown Pin: Pin +C11-1
+Add Pin To Net: Unknown Pin: Pin +C11-2
+Add Pin To Net: Unknown Pin: Pin +C12-1
+Add Pin To Net: Unknown Pin: Pin +C12-2
+Add Pin To Net: Unknown Pin: Pin +C19-2
+Add Pin To Net: Unknown Pin: Pin +C20-1
+Add Pin To Net: Unknown Pin: Pin +C20-2
+Add Pin To Net: Unknown Pin: Pin +C30-1
+Add Pin To Net: Unknown Pin: Pin +C30-2
+Add Pin To Net: Unknown Pin: Pin +C31-1
+Add Pin To Net: Unknown Pin: Pin +C31-2
+Add Pin To Net: Unknown Pin: Pin 32-1
+Add Pin To Net: Unknown Pin: Pin 32-2
+Added Pin To Net: NetName=AD2 REFCAP Pin=C10-1
+Added Pin To Net: NetName=AD2 REFCAP Pin=C10-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Added Pin To Net: NetName=AD2 REFCAP Pin=C18-1
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin P11-1
+Add Pin To Net: Unknown Pin: Pin P11-3
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R22-2
+Added Pin To Net: NetName=AD VACC Pin=U1-1
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-2
+Added Pin To Net: NetName=AD2 SERPAR SEL Pin=U1-6
+Added Pin To Net: NetName=AD2 RANGE Pin=U1-8
+Added Pin To Net: NetName=ADRES Pin=U1-11
+Added Pin To Net: NetName=XRD* Pin=U1-12
+Added Pin To Net: NetName=D0 Pin=U1-16
+Added Pin To Net: NetName=D1 Pin=U1-17
+Added Pin To Net: NetName=D2 Pin=U1-18
+Added Pin To Net: NetName=D3 Pin=U1-19
+Added Pin To Net: NetName=D4 Pin=U1-20
+Added Pin To Net: NetName=D5 Pin=U1-21
+Added Pin To Net: NetName=D6 Pin=U1-22
+Added Pin To Net: NetName=3.3V Pin=U1-23
+Added Pin To Net: NetName=D7 Pin=U1-24
+Added Pin To Net: NetName=D8 Pin=U1-25
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-26
+Added Pin To Net: NetName=D9 Pin=U1-27
+Added Pin To Net: NetName=D10 Pin=U1-28
+Added Pin To Net: NetName=D11 Pin=U1-29
+Added Pin To Net: NetName=D12 Pin=U1-30
+Added Pin To Net: NetName=D13 Pin=U1-31
+Added Pin To Net: NetName=D14 Pin=U1-32
+Added Pin To Net: NetName=D15 Pin=U1-33
+Added Pin To Net: NetName=AD2 REFSEL Pin=U1-34
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-35
+Added Pin To Net: NetName=AD VACC Pin=U1-37
+Added Pin To Net: NetName=AD VACC Pin=U1-38
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-39
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-40
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-41
+Added Pin To Net: NetName=ADR421 VOUT Pin=U1-42
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-43
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-44
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-45
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-46
+Added Pin To Net: NetName=AD2 REFCAP Pin=U1-47
+Added Pin To Net: NetName=AD VACC Pin=U1-48
+Added Pin To Net: NetName=0V Pin=U1-50
+Added Pin To Net: NetName=0V Pin=U1-52
+Added Pin To Net: NetName=0V Pin=U1-54
+Added Pin To Net: NetName=0V Pin=U1-56
+Added Pin To Net: NetName=0V Pin=U1-58
+Added Pin To Net: NetName=0V Pin=U1-60
+Added Pin To Net: NetName=0V Pin=U1-62
+Added Pin To Net: NetName=0V Pin=U1-64
+Added Net: Name=485-EN
+Added Pin To Net: NetName=AD1 BUSY Pin=U1-14
+Added Net: Name=AD1 BUSY
+Added Pin To Net: NetName=AD1 OS0 Pin=U1-3
+Added Net: Name=AD1 OS0
+Added Pin To Net: NetName=AD1 OS1 Pin=U1-4
+Added Net: Name=AD1 OS1
+Added Pin To Net: NetName=AD1 OS2 Pin=U1-5
+Added Net: Name=AD1 OS2
+Added Pin To Net: NetName=AD1 STBY Pin=U1-7
+Added Net: Name=AD1 STBY
+Added Pin To Net: NetName=ADINA0 Pin=U1-49
+Added Net: Name=ADINA0
+Added Pin To Net: NetName=ADINA1 Pin=U1-51
+Added Net: Name=ADINA1
+Added Pin To Net: NetName=ADINA2 Pin=U1-53
+Added Net: Name=ADINA2
+Added Pin To Net: NetName=ADINA3 Pin=U1-55
+Added Net: Name=ADINA3
+Added Pin To Net: NetName=ADINA4 Pin=U1-57
+Added Net: Name=ADINA4
+Added Pin To Net: NetName=ADINA5 Pin=U1-59
+Added Net: Name=ADINA5
+Added Pin To Net: NetName=ADINA6 Pin=U1-61
+Added Net: Name=ADINA6
+Added Pin To Net: NetName=ADINA7 Pin=U1-63
+Added Net: Name=ADINA7
+Added Pin To Net: NetName=Net+C19_1 Pin=C18-2
+Added Pin To Net: NetName=Net+C19_1 Pin=U1-36
+Added Net: Name=Net+C19_1
+Added Net: Name=NetP11_2
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U1-10
+Added Net: Name=NetU1_9
+Added Net: Name=SCI-485-ISO
+Added Net: Name=SCI-485-R
+Added Pin To Net: NetName=SCI-485-T-ISO Pin=P6-3
+Added Net: Name=SCI-485-T-ISO
+Added Pin To Net: NetName=SCI-485-T Pin=P6-1
+Added Net: Name=SCI-485-T
+Added Net: Name=SCI-485EN-ISO
+Added Net: Name=SCI-485EN
+Added Net: Name=SCITXDC-232
+Added Pin To Net: NetName=SCITXDC-485 Pin=P6-2
+Added Net: Name=SCITXDC-485
+Added Net: Name=SCITXDC
+Added Pin To Net: NetName=XADS1 Pin=U1-13
+Added Net: Name=XADS1
+Add Class Member: Failed to add class member : Component +C11 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component +C12 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component +C19 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component +C20 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component +C30 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component +C31 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component 32 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C10 C100n-1206
+Add Class Member: Failed to add class member : Component C14 C100n-1206
+Added Member To Class: ClassName=ADC Member=Component C18 C100n-1206
+Add Class Member: Failed to add class member : Component C21 C100n-1206
+Add Class Member: Failed to add class member : Component C24 C100n-1206
+Add Class Member: Failed to add class member : Component C29 CD10u/25V-B(3528)
+Add Class Member: Failed to add class member : Component C33 C100n-1206
+Add Class Member: Failed to add class member : Component C36 C100n-1206
+Add Class Member: Failed to add class member : Component C37 C100n-1206
+Add Class Member: Failed to add class member : Component D? SMAJ7.0CA
+Add Class Member: Failed to add class member : Component D? SMAJ7.0CA
+Add Class Member: Failed to add class member : Component P1 Header 3
+Add Class Member: Failed to add class member : Component P2 Header 3
+Added Member To Class: ClassName=ADC Member=Component P6 Header 30
+Add Class Member: Failed to add class member : Component P7 Header 3
+Add Class Member: Failed to add class member : Component P8 485-ISO
+Add Class Member: Failed to add class member : Component P10 Header 3
+Add Class Member: Failed to add class member : Component P11 Header 3
+Add Class Member: Failed to add class member : Component R11 R300R-0805
+Add Class Member: Failed to add class member : Component R12 R300R-0805
+Add Class Member: Failed to add class member : Component R14 R300R-0805
+Add Class Member: Failed to add class member : Component R16 R300R-0805
+Add Class Member: Failed to add class member : Component R18 R36K-0805
+Add Class Member: Failed to add class member : Component R20 R36K-0805
+Add Class Member: Failed to add class member : Component R22 R36K-0805
+Add Class Member: Failed to add class member : Component R? R2K-0805
+Add Class Member: Failed to add class member : Component R? R2K-0805
+Add Class Member: Failed to add class member : Component R? R120R-1206
+Added Member To Class: ClassName=ADC Member=Component U1 Component_1
+Add Class Member: Failed to add class member : Component U? CH395L
+Add Class Member: Failed to add class member : Component U? TPS22960DCNR
+Added Room: Name=ADC
